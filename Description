@@ -6,7 +6,7 @@ Acknowledgements
 A huge round of applause for sofifa.com for providing this amazing data!
 
 Problem solvings:
-Convert the height and weight columns to numerical forms
+Converted the height and weight columns to numerical forms
 Remove the unnecessary newline characters from all columns that have them.
 Based on the 'Joined' column, check which players have been playing at a club for more than 10 years!
 'Value', 'Wage' and "Release Clause' are string columns. Converted them to numbers. For eg, "M" in value column is Million, so multiply the row values by 1,000,000, etc.
